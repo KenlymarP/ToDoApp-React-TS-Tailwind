@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/todoapp-reacttstailwind-yLKX9ndP1u)
 - Live Site URL: [Add live site URL here](https://todoapp-react-ts-tailwind.netlify.app/)
 
 ## My process
